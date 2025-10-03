@@ -37,8 +37,9 @@ Mi meta 2025: **convertirme en Senior Data Engineer Bilingüe**.
 ---
 
 ## 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastián%20Marín-0A66C2?logo=linkedin&logoColor=white)](LINKEDIN_URL)
-[![Mail](https://img.shields.io/badge/Email-Contactar-1F6FEB?logo=gmail&logoColor=white)](mailto:TU_CORREO_REAL?subject=Contacto%20desde%20GitHub&body=Hola%20Sebastián%2C%20vi%20tu%20perfil%20en%20GitHub...)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastián%20Marín-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-slug-exacto/)
+[![Mail](https://img.shields.io/badge/Email-Contactar-1F6FEB?logo=gmail&logoColor=white)](mailto:tu_correo@dominio.com?subject=Contacto%20desde%20GitHub)
+
 
 
 ---
