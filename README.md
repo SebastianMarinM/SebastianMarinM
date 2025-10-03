@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Sebastián Marín - Data Engineer" />
+  <img src="Data_Engineer.png" alt="Sebastián Marín - Data Engineer" />
 </p>
 
 # 👋 Hola, soy Sebastián Marín — Data Engineer (AWS | Python | SQL | Spark)
